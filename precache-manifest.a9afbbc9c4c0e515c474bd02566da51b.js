@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "043eefb26870ce9d94f1aa57f33ba789",
+    "revision": "60a1b6907a47b4580e7046b326f0c4c6",
     "url": "/ShotHub/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ShotHub/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "45dfb28c5c839a168c70",
-    "url": "/ShotHub/static/css/main.a47da220.chunk.css"
+    "revision": "dd4aa9b26145ab7c2ead",
+    "url": "/ShotHub/static/css/main.2acda8c7.chunk.css"
   },
   {
     "revision": "009b16cb07f47689d638",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ShotHub/static/js/2.e4714e62.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45dfb28c5c839a168c70",
+    "revision": "dd4aa9b26145ab7c2ead",
     "url": "/ShotHub/static/js/main.26957195.chunk.js"
   },
   {

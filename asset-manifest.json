@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ShotHub/static/css/main.7ae71118.chunk.css",
+    "main.css": "/ShotHub/static/css/main.7cceb814.chunk.css",
     "main.js": "/ShotHub/static/js/main.26957195.chunk.js",
     "main.js.map": "/ShotHub/static/js/main.26957195.chunk.js.map",
     "runtime-main.js": "/ShotHub/static/js/runtime-main.ab4106cd.js",
@@ -9,17 +9,17 @@
     "static/js/2.e4714e62.chunk.js": "/ShotHub/static/js/2.e4714e62.chunk.js",
     "static/js/2.e4714e62.chunk.js.map": "/ShotHub/static/js/2.e4714e62.chunk.js.map",
     "index.html": "/ShotHub/index.html",
-    "precache-manifest.e99a43b0e80265eb371794a81a20bb2c.js": "/ShotHub/precache-manifest.e99a43b0e80265eb371794a81a20bb2c.js",
+    "precache-manifest.dffbba1e3eba832714d3948afe96a3c8.js": "/ShotHub/precache-manifest.dffbba1e3eba832714d3948afe96a3c8.js",
     "service-worker.js": "/ShotHub/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/ShotHub/static/css/2.de424728.chunk.css.map",
-    "static/css/main.7ae71118.chunk.css.map": "/ShotHub/static/css/main.7ae71118.chunk.css.map",
+    "static/css/main.7cceb814.chunk.css.map": "/ShotHub/static/css/main.7cceb814.chunk.css.map",
     "static/js/2.e4714e62.chunk.js.LICENSE.txt": "/ShotHub/static/js/2.e4714e62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ab4106cd.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.e4714e62.chunk.js",
-    "static/css/main.7ae71118.chunk.css",
+    "static/css/main.7cceb814.chunk.css",
     "static/js/main.26957195.chunk.js"
   ]
 }
